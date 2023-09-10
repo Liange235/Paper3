@@ -2,10 +2,7 @@
 
 # VAE-DGP
 
-<div id="html-content"></div>
-
-<script src="script.js"></script>
-<!-- [![开始按钮](https://liange235.github.io/Intermediate-results/preview.jpg)](https://liange235.github.io/Intermediate-results/1D.html) -->
+![图片描述](https://liange235.github.io/Intermediate-results/VAE-DGP4.png)
 
 Code, models and data for the paper ["Industrial Data Modeling with Low-Dimensional Inputs and High-Dimensional Outputs
 Supplementary Material"](https://ieeexplore.ieee.org/document/10093135).
