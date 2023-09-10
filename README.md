@@ -2,7 +2,7 @@
 
 # VAE-DGP
 
-Code, models and data from the paper ["Industrial Data Modeling with Low-Dimensional Inputs and High-Dimensional Outputs
+Code, models and data for the paper ["Industrial Data Modeling with Low-Dimensional Inputs and High-Dimensional Outputs
 Supplementary Material"](https://ieeexplore.ieee.org/document/10093135).
 
 We have also [released a dataset] in the folder Data for researchers to study their behaviors.
