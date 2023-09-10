@@ -1,7 +1,9 @@
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # VAE-DGP
+
 <div id="html-content"></div>
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   var htmlContentDiv = document.getElementById("html-content");
