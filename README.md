@@ -4,18 +4,7 @@
 
 <div id="html-content"></div>
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var htmlContentDiv = document.getElementById("html-content");
-  var iframe = document.createElement("iframe");
-  iframe.setAttribute("src", "https://liange235.github.io/Intermediate-results/1D.html");
-  iframe.setAttribute("frameborder", "0");
-  iframe.setAttribute("width", "100%");
-  iframe.setAttribute("height", "400px");
-  htmlContentDiv.appendChild(iframe);
-});
-</script>
-
+<script src="script.js"></script>
 <!-- [![开始按钮](https://liange235.github.io/Intermediate-results/preview.jpg)](https://liange235.github.io/Intermediate-results/1D.html) -->
 
 Code, models and data for the paper ["Industrial Data Modeling with Low-Dimensional Inputs and High-Dimensional Outputs
