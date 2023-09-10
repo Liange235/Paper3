@@ -7,6 +7,9 @@
 Code, models and data for the paper ["Industrial Data Modeling with Low-Dimensional Inputs and High-Dimensional Outputs
 Supplementary Material"](https://ieeexplore.ieee.org/document/10093135).
 
+# Supporting information
+The animated plotted results are too large to append here. So we upload the zip file to the Google Drive(https://drive.google.com/file/d/12Q0XIJyz3zHpquO3cS-OUt3deAYGALJk/view?usp=sharing)
+
 We have also [released a dataset] in the folder Data for researchers to study their behaviors.
 
 ## Installation
